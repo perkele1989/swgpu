@@ -1,5 +1,7 @@
 # swgpu - A software path tracer written in C11 
 
+![asd](https://github.com/perkele1989/swgpu/blob/master/img/screen.png?raw=true)
+
 * Cook Torrance Specular with GGX microfacet distribution
 * Custom Diffuse distribution using the Golden Spiral, inspired by how sunflowers distribute their seeds evenly in the flower (converges much quicker than random hemisphere noise)
 * Educational project, not for production use
