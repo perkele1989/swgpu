@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c",
+        "chrono": "c",
+        "xlocale": "c",
+        "vector": "c"
+    }
+}
